@@ -1,0 +1,14 @@
+.header {
+  display: block;
+  height: auto;
+  background-color: lightgray;
+}
+
+.header__inner {
+  padding: 20px;
+}
+
+.header {
+  position: relative;
+  z-index: 10;
+}
